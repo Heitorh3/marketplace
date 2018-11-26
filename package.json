@@ -19,6 +19,6 @@
     "eslint-plugin-standard": "^4.0.0"
   },
   "scripts": {
-    "start": "nodemon src/index.js -e js"
+    "start": "nodemon src/index.js"
   }
 }
