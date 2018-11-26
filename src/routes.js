@@ -1,5 +1,5 @@
-const server = require('./server')
+const express = require('express')
 
-const routes = server.Router()
+const routes = express.Router()
 
 module.exports = routes
