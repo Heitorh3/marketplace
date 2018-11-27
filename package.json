@@ -6,6 +6,7 @@
   "author": "Heitor Neto <heitorh3@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.16.4",
     "mongoose": "^5.3.13",
     "nodemon": "^1.18.6"
