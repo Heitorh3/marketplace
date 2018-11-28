@@ -6,6 +6,7 @@
   "author": "Heitor Neto <heitorh3@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@sentry/node": "^4.4.0",
     "bcryptjs": "^2.4.3",
     "express": "^4.16.4",
     "express-async-handler": "^1.1.4",
